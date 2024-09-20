@@ -1,4 +1,4 @@
-package DataStructures.Linear.LinkedList;
+package DataStructures.Linear.Stacks;
 
 import java.util.Scanner;
 import java.util.Stack;
