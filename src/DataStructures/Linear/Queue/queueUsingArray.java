@@ -69,6 +69,5 @@ public class queueUsingArray {
             queue.display();
         }
         queue.front();
-        System.out.println("Changes done.");
     }
 }
