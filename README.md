@@ -5,7 +5,6 @@ Welcome to my **Java Data Structures and Algorithms (DSA) Journey** repository! 
 ## Contents
 
 - **Java Implementations**: Each folder contains code solutions for various DSA topics.
-- **Clear Explanations**: The code includes comments and explanations for better understanding.
 
 ## Topics Covered
 
